@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Ecology, Evolution, and Behavior, Boise State University, 2026 (expected)
+* M.S. in Ecology and Evolutionary Biology, University of Nevada, Las Vegas, 2021
+* B.S. in Biology, Calvin University, 2019 (minors: data science, geography)
 
-Work experience
+Teaching experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: Teaching Assistant
+  * Boise State University
+  * Created a series of video tutorials about working with data in R for students who need to analyze and visualize data for classes or student research
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Instructor of Record -- Introduction to Spatial Data in R
+  * Boise State University
+  * Lectured on course material for graduate (500-level) course, created in-class learning activities, and provided feedback on student coding projects.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Research experience
+======
+* 2022--present: Graduate Assistant
+  * Boise State University
+  * Researching ecosystem services provided by farmland and drivers of farmland loss in Idaho’s Snake River Plain using spatial models, remote sensing, optimization, and archetype analysis. Mentored undergradute-led research that resulted in three poster presentations.
+  * Supervisor: Dr. Jodi Brandt
   
 Skills
 ======
@@ -47,11 +47,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -61,4 +61,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2023--present: Certified coding workshop instructor
+  * The Carpentries
+  * Co-teach workshops for coding and data science skills. I have taught two 2-day workshops for faculty focused on data skills in Python, one 3-hour workshop in R for students, and one full-day workshop in R for students and faculty. Learners reported gains in computing skills and confidence in writing programs to work with their data. 
