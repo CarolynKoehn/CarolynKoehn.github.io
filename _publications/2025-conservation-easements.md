@@ -9,7 +9,7 @@ venue: 'Biological Conservation'
 paperurl: 'https://doi.org/10.1016/j.biocon.2025.111234'
 slidesurl: 'https://carolynkoehn.github.io/files/2025-conservation-easements.pdf'
 bibtexurl: 'https://carolynkoehn.github.io/files/2025-conservation-easements.bib'
-citation: 'Kolarik, N.E., Cattau, M., Koehn, C., Roopsind, A., Williamson, M., & Brandt, J. (2025). Conservation easements target high quality lands but do not increase their quality. Biological Conservation, 308, 111234.'
+citation: 'Kolarik, N.E., Cattau, M., Koehn, C., Roopsind, A., Williamson, M., & Brandt, J. (2025). Conservation easements target high quality lands but do not increase their quality. <i>Biological Conservation</i>, 308, 111234.'
 ---
 
 **Abstract**
