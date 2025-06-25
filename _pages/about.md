@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-WEBSITE UNDER CONSTRUCTION
-
 About Me
 -----
 
