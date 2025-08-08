@@ -23,7 +23,7 @@ In my free time, you can find me knitting on my couch with one or both of my cat
 Currently listening to
 -----
 
-I can't write without music to motivate me. Here are the current soundtracks powering my dissertation:
+These are the soundtracks powering my dissertation:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3TjU2yKwySPgoS0JhsGckG?utm_source=generator" width="100%" height="225" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
