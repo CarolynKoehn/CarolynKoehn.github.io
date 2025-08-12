@@ -31,7 +31,7 @@ Teaching
   * Boise State University
   * Lectured on course material for graduate (500-level) course, created in-class learning activities, and provided feedback on student coding projects. -->
 
-Research experience
+Research Experience
 ======
 * 2022--present: Graduate Assistant
   * Boise State University
@@ -79,7 +79,7 @@ Publications
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
   
-Service and leadership
+Service and Leadership
 ======
 * 2023--present: Certified coding workshop instructor
   * The Carpentries
