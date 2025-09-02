@@ -9,7 +9,7 @@ venue: 'Restoration Ecology'
 paperurl: 'https://doi.org/10.1111/rec.70184'
 slidesurl: 'https://carolynkoehn.github.io/files/2025-time-series.pdf'
 bibtexurl: 'https://carolynkoehn.github.io/files/2025-time-series.bib'
-citation: 'Kolarik, N.E., Koehn, C., Nati-Johnson, E., Rojas Lucero, J.C., Martin, C., Caughlin, T.T., Iskin, E., Jochems, L., Neville, H., & Brandt, J. (2025). Time series analyses provide a low-cost and scalable way to assess restoration outcomes from satellite data. <i>Restoration Ecology<\i>, e70184.'
+citation: 'Kolarik, N.E., Koehn, C., Nati-Johnson, E., Rojas Lucero, J.C., Martin, C., Caughlin, T.T., Iskin, E., Jochems, L., Neville, H., & Brandt, J. (2025). Time series analyses provide a low-cost and scalable way to assess restoration outcomes from satellite data. <i>Restoration Ecology</i>, e70184.'
 ---
 
 **Abstract**
