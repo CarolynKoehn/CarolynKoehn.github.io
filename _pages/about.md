@@ -12,7 +12,7 @@ About Me
 
 <p align="middle">
   <img src="/images/CK_snowshoe.png" width="30%" alt="Carolyn is snowshoeing in a snowy forest."/>
-  <img src="/images/LV_hike.png" width="30%" alt="Carolyn smiles at the top of a mountain. A bird's eye view of the city of Las Vegas is visible behind her."/> 
+  <img src="/images/CK_with_bike.png" width="30%" alt="Carolyn smiles at the top of a mountain. A bird's eye view of the city of Las Vegas is visible behind her."/> 
   <img src="/images/CK_beach.png" width="30%" alt="Carolyn walks on a beach carrying her hiking boots."/>
 </p>
 

@@ -22,7 +22,7 @@ repository               : "CarolynKoehn/CarolynKoehn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "CK_with_bike.png"
+  avatar           : "CK_posed.JPG"
   name             : "Carolyn Koehn"
   pronouns         : # example: "she/her"  
   bio              : "I am a doctoral candidate at Boise State University primarily interested in teaching ecology and data science skills to undergraduates. My current research focuses on dynamics of ecosystem services and social-ecological archetypes in an urbanizing public-private lands network."
