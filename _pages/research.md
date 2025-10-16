@@ -15,7 +15,7 @@ I've also enjoyed mentoring seven undergraduate students across five semesters. 
 Former Work
 -----
 
-My master's thesis research was focused on soil moisture patterns in the dryland southwestern United States and how ponderosa pine rejuvenation might be affected by dry periods. You can read about soil moisture patterns [here](doi.org/10.1029/2020JG005986) and ponderosa pine seedling survival during dry periods [here](https://doi.org/10.3390/f13030370).
+My master's thesis research was focused on soil moisture patterns in the dryland southwestern United States and how ponderosa pine rejuvenation might be affected by dry periods. You can read about soil moisture patterns [here](https://doi.org/10.1029/2020JG005986) and ponderosa pine seedling survival during dry periods [here](https://doi.org/10.3390/f13030370).
 
 As an undergraduate, I was involved in a study to document the flora of Grand Rapids, MI, with the ultimate goal of comparing the flora of the present to the flora documented by Emma Cole >100 years ago. You can read about our botanical assessments of a high quality wetland and nearby forest in the Undeveloped Lowell Regional Greenspace [here](https://doi.org/10.3998/glbot.3690) and [here](http://hdl.handle.net/2027/spo.0497763.0060.304).
 
