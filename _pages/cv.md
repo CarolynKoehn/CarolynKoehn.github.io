@@ -66,12 +66,6 @@ Research Experience
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3 -->
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 <!-- Talks
 ======
@@ -92,3 +86,9 @@ Service and Leadership
 * 2023--2025: Leader for R Users Group
   * Boise State University
   * Hosted and coordinated R user group meetings, which provide support for graduate students using R for classwork and research. 
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
