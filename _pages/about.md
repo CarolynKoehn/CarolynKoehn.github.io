@@ -16,7 +16,9 @@ About Me
   <img src="/images/CK_beach.png" width="30%" alt="Carolyn walks on a beach carrying her hiking boots."/>
 </p>
 
-I'm a land systems scientist, currently a PhD candidate in the Boise State University [Human-Environment Systems](https://www.boisestate.edu/hes/) research group. My current research focuses on social-ecological-agricultural archetypes and systematic conservation planning informed by nature's contributions to people, all in the context of an urbanizing network of public and private lands in the western US. I'm also passionate about education, particularly in teaching data science and research skills to undergraduate students in ecology, environmental science, and related disciplines. 
+I'm a land systems scientist, currently a PhD candidate in [Human-Environment Systems](https://www.boisestate.edu/hes/) at Boise State University. Our [FarmPrES research team](https://www.boisestate.edu/environment/our-work/farmland-protection-research/) was featured in the [Boise State News](https://www.boisestate.edu/news/2026/06/08/fighting-for-idahos-fields-how-research-and-community-voices-are-protecting-farmland/). 
+
+My current research focuses on social-ecological-agricultural archetypes and systematic conservation planning informed by nature's contributions to people, all in the context of an urbanizing network of public and private lands in the western US. I'm also passionate about education, particularly in teaching data science and research skills to undergraduate students in ecology, environmental science, and related disciplines. 
 
 In my free time, you can find me knitting on my couch with one or both of my cats or hiking and documenting what I see on [iNaturalist](https://www.inaturalist.org/people/qtcarolyn).
 
