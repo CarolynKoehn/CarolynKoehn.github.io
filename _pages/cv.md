@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Ecology, Evolution, and Behavior, Boise State University, 2026 (expected)
+* Ph.D in Ecology, Evolution, and Behavior, Boise State University, 2027 (expected)
 * M.S. in Ecology and Evolutionary Biology, University of Nevada, Las Vegas, 2021
 * B.S. in Biology, Calvin University, 2019 (minors: data science, geography)
   
@@ -31,7 +31,7 @@ Teaching
   * Boise State University
   * Lectured on course material for graduate (500-level) course, created in-class learning activities, and provided feedback on student coding projects. -->
 
-Research Experience
+Research
 ======
 * 2022--present: Graduate Assistant
   * Boise State University
@@ -57,6 +57,10 @@ Research Experience
   * Calvin University
   * Taught research techniques to first year undergraduate students in the FYRES (First Year Research in Earth Science) course, led students in designing and completing a research project, and compiled research results into a research report
   * Supervisor: Dr. Deanna van Dijk
+ 
+Grants
+======
+*Preserving America's Best Agricultural Land: Farmland Protection Planning Informed by Ecosystem Services.* United States Department of Agriculture, National Institute of Food and Agriculture. Total award: $118,288, 2026-2028. PI: Carolyn Koehn.
   
 <!-- Skills
 ======
